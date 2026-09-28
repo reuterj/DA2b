@@ -1,0 +1,303 @@
+Alpha Fund, Inc.|1996|0.2785
+Alpha Fund, Inc.|1997|0.024
+Alpha Fund, Inc.|1998|0.3244
+Alpha Fund, Inc.|1999|-0.14850000000000002
+Alpha Fund, Inc.|2000|0.2881
+Alpha Fund, Inc.|2001|0.4011
+Alpha Fund, Inc.|2002|0.1326
+Alpha Fund, Inc.|2003|0.0254
+Alpha Fund, Inc.|2004|0.1254
+Alpha Fund, Inc.|2005|0.0824
+Alpha Fund, Inc.|2006|-0.145
+Alpha Fund, Inc.|2007|-0.0195
+Alpha Fund, Inc.|2008|-0.025400000000000006
+Alpha Fund, Inc.|2009|-0.1842
+Alpha Fund, Inc.|2010|0.0891
+Alpha Fund, Inc.|2011|-0.0064
+Alpha Fund, Inc.|2012|-0.0565
+Alpha Fund, Inc.|2013|0.37729999999999997
+Alpha Fund, Inc.|2014|-0.014400000000000001
+Alpha Fund, Inc.|2015|0.1755
+Alpha Fund, Inc.|2016|0.28550000000000003
+Alpha Fund, Inc.|2017|0.2958
+Alpha Fund, Inc.|2018|0.2572
+Alpha Fund, Inc.|2019|-0.23170000000000002
+Alpha Fund, Inc.|2020|0.2874
+Alpha Fund, Inc.|2021|0.1556
+Alpha Fund, Inc.|2022|0.0706
+Beta Fund|1999|0.0399
+Beta Fund|2000|0.28250000000000003
+Beta Fund|2001|-0.0529
+Beta Fund|2002|0.0707
+Beta Fund|2003|0.4621
+Beta Fund|2004|0.6226
+Beta Fund|2005|0.1772
+Beta Fund|2006|-0.26389999999999997
+Beta Fund|2007|-0.4515
+Beta Fund|2008|0.0801
+Beta Fund|2009|-0.0055000000000000005
+Beta Fund|2010|-0.054299999999999994
+Beta Fund|2011|0.16219999999999998
+Beta Fund|2012|0.1394
+Beta Fund|2013|0.1472
+Beta Fund|2014|0.2044
+Beta Fund|2015|0.3442
+Beta Fund|2016|0.0089
+Beta Fund|2017|-0.14730000000000001
+Beta Fund|2018|0.2708
+Beta Fund|2019|-0.1845
+Gamma Fund|1995|0.2481
+Gamma Fund|1996|0.2516
+Gamma Fund|1997|0.4038
+Gamma Fund|1998|0.006
+Gamma Fund|1999|0.22949999999999998
+Gamma Fund|2000|0.2968
+Gamma Fund|2001|-0.10729999999999999
+Gamma Fund|2002|0.4835
+Gamma Fund|2003|0.16069999999999998
+Gamma Fund|2004|-0.24530000000000002
+Gamma Fund|2005|-0.0582
+Gamma Fund|2006|-0.2996
+Gamma Fund|2007|0.15789999999999998
+Gamma Fund|2008|0.02389999999999999
+Gamma Fund|2009|-0.0222
+Gamma Fund|2010|0.6139
+Gamma Fund|2011|0.3858
+Gamma Fund|2012|0.5074
+Gamma Fund|2013|-0.0732
+Gamma Fund|2014|0.1302
+Gamma Fund|2015|0.1019
+Gamma Fund|2016|0.0296
+Gamma Fund|2017|-0.0135
+Gamma Fund|2018|-0.2875
+Gamma Fund|2019|0.13849999999999998
+Gamma Fund|2020|0.1751
+Gamma Fund|2021|-0.0088
+Gamma Fund|2022|-0.22110000000000002
+Gamma Fund|2023|0.1149
+Gamma Fund|2024|0.3148
+Omega Fund|1997|-0.0377
+Omega Fund|1998|0.1373
+Omega Fund|1999|0.07590000000000001
+Omega Fund|2000|0.0174
+Omega Fund|2001|-0.0543
+Omega Fund|2002|0.0823
+Omega Fund|2003|0.0158
+Omega Fund|2004|-0.0417
+Omega Fund|2005|0.0124
+Omega Fund|2006|-0.036699999999999997
+Omega Fund|2007|-0.09359999999999999
+Omega Fund|2008|-0.016900000000000012
+Omega Fund|2009|0.1316
+Omega Fund|2010|0.11399999999999999
+Omega Fund|2011|0.15289999999999998
+Omega Fund|2012|0.0385
+Omega Fund|2013|0.1105
+Omega Fund|2014|0.155
+Omega Fund|2015|0.1538
+Omega Fund|2016|0.0581
+Omega Fund|2017|0.1135
+Omega Fund|2018|0.0901
+Omega Fund|2019|0.1649
+Omega Fund|2020|0.2257
+Omega Fund|2021|-0.0426
+Omega Fund|2022|-0.05430000000000001
+Omega Fund|2023|-0.0017999999999999995
+Omega Fund|2024|0.11599999999999999
+Super Growth Fund|1995|0.0298
+Super Growth Fund|1996|-0.0365
+Super Growth Fund|1997|0.2637
+Super Growth Fund|1998|0.35960000000000003
+Super Growth Fund|1999|0.0737
+Super Growth Fund|2000|0.0953
+Super Growth Fund|2001|0.0622
+Super Growth Fund|2002|0.0117
+Super Growth Fund|2003|-0.0683
+Super Growth Fund|2004|0.13640000000000002
+Super Growth Fund|2005|-0.1841
+Super Growth Fund|2006|0.1046
+Super Growth Fund|2007|-0.023100000000000002
+Super Growth Fund|2008|-0.2219
+Super Growth Fund|2009|0.0096
+Super Growth Fund|2010|-0.0741
+Super Growth Fund|2011|0.11120000000000001
+Super Growth Fund|2012|-0.056
+Super Growth Fund|2013|-0.3285
+Super Growth Fund|2014|0.5249
+Super Growth Fund|2015|0.185
+Super Growth Fund|2016|0.0072
+Super Growth Fund|2017|-0.1967
+Super Growth Fund|2018|0.0536
+Super Growth Fund|2019|-0.03
+Super Growth Fund|2020|0.3177
+Super Growth Fund|2021|0.16749999999999998
+Super Growth Fund|2022|-0.0155
+Super Growth Fund|2023|-0.0394
+Super Growth Fund|2024|0.1337
+Low-risk Fund|1995|0.0669
+Low-risk Fund|1996|0.1472
+Low-risk Fund|1997|0.055299999999999995
+Low-risk Fund|1998|0.09
+Low-risk Fund|1999|0.1979
+Low-risk Fund|2000|0.0596
+Low-risk Fund|2001|-0.0386
+Low-risk Fund|2002|-0.06330000000000001
+Low-risk Fund|2003|0.1659
+Low-risk Fund|2004|0.2525
+Low-risk Fund|2005|0.1478
+Low-risk Fund|2006|0.2311
+Low-risk Fund|2007|-0.0317
+Low-risk Fund|2008|-0.06770000000000001
+Low-risk Fund|2009|0.1492
+Low-risk Fund|2010|-0.1341
+Low-risk Fund|2011|-0.08159999999999999
+Low-risk Fund|2012|0.067
+Low-risk Fund|2013|0.0756
+Low-risk Fund|2014|0.08929999999999999
+Low-risk Fund|2015|0.09380000000000001
+Low-risk Fund|2016|-0.109
+Low-risk Fund|2017|0.0918
+Low-risk Fund|2018|0.2611
+Low-risk Fund|2019|0.1484
+Low-risk Fund|2020|0.07819999999999999
+Low-risk Fund|2021|-0.006500000000000001
+Low-risk Fund|2022|-0.1265
+Low-risk Fund|2023|0.1673
+Low-risk Fund|2024|0.17500000000000002
+Trending-chasing Fund, LLC|1996|0.2512
+Trending-chasing Fund, LLC|1997|-0.1196
+Trending-chasing Fund, LLC|1998|-0.1563
+Trending-chasing Fund, LLC|1999|0.18139999999999998
+Trending-chasing Fund, LLC|2000|-0.0946
+Trending-chasing Fund, LLC|2001|0.25229999999999997
+Trending-chasing Fund, LLC|2002|0.1406
+Trending-chasing Fund, LLC|2003|0.0286
+Trending-chasing Fund, LLC|2004|0.1152
+Trending-chasing Fund, LLC|2005|0.2019
+Trending-chasing Fund, LLC|2006|0.046400000000000004
+Trending-chasing Fund, LLC|2007|-0.0653
+Trending-chasing Fund, LLC|2008|-0.4575
+Trending-chasing Fund, LLC|2009|0.0886
+Trending-chasing Fund, LLC|2010|0.0478
+Trending-chasing Fund, LLC|2011|0.1153
+Trending-chasing Fund, LLC|2012|0.1703
+Trending-chasing Fund, LLC|2013|0.32489999999999997
+Trending-chasing Fund, LLC|2014|0.0444
+Trending-chasing Fund, LLC|2015|-0.0044
+Trending-chasing Fund, LLC|2016|0.4662
+Trending-chasing Fund, LLC|2017|-0.0872
+Trending-chasing Fund, LLC|2018|0.0957
+Trending-chasing Fund, LLC|2019|-0.1892
+Trending-chasing Fund, LLC|2020|0.2526
+Trending-chasing Fund, LLC|2021|-0.0962
+Trending-chasing Fund, LLC|2022|0.2083
+Trending-chasing Fund, LLC|2023|-0.1002
+Trending-chasing Fund, LLC|2024|-0.0673
+Massachusetts Investors' Trust|1995|0.0020999999999999994
+Massachusetts Investors' Trust|1996|-0.06420000000000001
+Massachusetts Investors' Trust|1997|-0.0564
+Massachusetts Investors' Trust|1998|0.2979
+Massachusetts Investors' Trust|1999|0.029899999999999996
+Massachusetts Investors' Trust|2000|-0.3319
+Massachusetts Investors' Trust|2001|0.11939999999999999
+Massachusetts Investors' Trust|2002|-0.2909
+Massachusetts Investors' Trust|2003|0.0661
+Massachusetts Investors' Trust|2004|0.3905
+Massachusetts Investors' Trust|2005|0.4212
+Massachusetts Investors' Trust|2006|-0.0981
+Massachusetts Investors' Trust|2007|-0.5559000000000001
+Massachusetts Investors' Trust|2008|0.1877
+Massachusetts Investors' Trust|2009|0.2943
+Massachusetts Investors' Trust|2010|0.0618
+Massachusetts Investors' Trust|2011|0.1925
+Massachusetts Investors' Trust|2012|0.08249999999999999
+Massachusetts Investors' Trust|2013|-0.111
+Massachusetts Investors' Trust|2014|0.0393
+Massachusetts Investors' Trust|2015|-0.1302
+Massachusetts Investors' Trust|2016|0.343
+Massachusetts Investors' Trust|2017|0.176
+Massachusetts Investors' Trust|2018|0.2232
+Massachusetts Investors' Trust|2019|0.022
+Massachusetts Investors' Trust|2020|-0.10400000000000001
+Massachusetts Investors' Trust|2021|0.25279999999999997
+Massachusetts Investors' Trust|2022|-0.1559
+Massachusetts Investors' Trust|2023|0.33749999999999997
+Massachusetts Investors' Trust|2024|-0.011999999999999999
+Insider Trades R Us, Corp.|1996|-0.033499999999999995
+Insider Trades R Us, Corp.|1997|0.149
+Insider Trades R Us, Corp.|1998|0.43920000000000003
+Insider Trades R Us, Corp.|1999|0.2571
+Insider Trades R Us, Corp.|2000|0.21250000000000002
+Insider Trades R Us, Corp.|2001|-0.11599999999999999
+Insider Trades R Us, Corp.|2002|-0.055299999999999995
+Insider Trades R Us, Corp.|2003|0.1923
+Insider Trades R Us, Corp.|2004|0.011300000000000001
+Insider Trades R Us, Corp.|2005|-0.1711
+Insider Trades R Us, Corp.|2006|-0.1265
+Insider Trades R Us, Corp.|2007|0.3354
+Insider Trades R Us, Corp.|2008|0.0638
+Insider Trades R Us, Corp.|2009|0.1847
+Insider Trades R Us, Corp.|2010|0.10569999999999999
+Insider Trades R Us, Corp.|2011|0.1288
+Insider Trades R Us, Corp.|2012|-0.11900000000000001
+Insider Trades R Us, Corp.|2013|0.1339
+Insider Trades R Us, Corp.|2014|0.0775
+Insider Trades R Us, Corp.|2015|-0.0833
+Insider Trades R Us, Corp.|2016|0.08679999999999999
+Insider Trades R Us, Corp.|2017|0.25379999999999997
+Insider Trades R Us, Corp.|2018|-0.13849999999999998
+Insider Trades R Us, Corp.|2019|0.115
+Insider Trades R Us, Corp.|2020|-0.0153
+Balanced Fund|1995|0.12170000000000002
+Balanced Fund|1996|0.1456
+Balanced Fund|1997|0.151
+Balanced Fund|1998|0.16790000000000002
+Balanced Fund|1999|0.3544
+Balanced Fund|2000|-0.0649
+Balanced Fund|2001|0.0014999999999999996
+Balanced Fund|2002|-0.1933
+Balanced Fund|2003|0.0407
+Balanced Fund|2004|0.1056
+Balanced Fund|2005|0.161
+Balanced Fund|2006|0.1547
+Balanced Fund|2007|0.031599999999999996
+Balanced Fund|2008|0.062
+Balanced Fund|2009|-0.0103
+Balanced Fund|2010|0.2073
+Balanced Fund|2011|0.008700000000000001
+Balanced Fund|2012|0.14
+Balanced Fund|2013|0.0669
+Balanced Fund|2014|0.1287
+Balanced Fund|2015|0.1415
+Balanced Fund|2016|-0.008599999999999998
+Balanced Fund|2017|0.1505
+Balanced Fund|2018|0.295
+Balanced Fund|2019|0.020900000000000002
+Balanced Fund|2020|0.2997
+Balanced Fund|2021|-0.16920000000000002
+Conservative Fund|1999|0.0599
+Conservative Fund|2000|0.24760000000000001
+Conservative Fund|2001|0.0879
+Conservative Fund|2002|0.17020000000000002
+Conservative Fund|2003|0.1934
+Conservative Fund|2004|0.0596
+Conservative Fund|2005|0.1828
+Conservative Fund|2006|0.0475
+Conservative Fund|2007|0.0475
+Conservative Fund|2008|-0.016600000000000004
+Conservative Fund|2009|0.052899999999999996
+Conservative Fund|2010|0.07809999999999999
+Conservative Fund|2011|0.2382
+Conservative Fund|2012|0.136
+Conservative Fund|2013|-0.0472
+Conservative Fund|2014|0.0594
+Conservative Fund|2015|0.0728
+Conservative Fund|2016|0.18230000000000002
+Conservative Fund|2017|-0.0189
+Conservative Fund|2018|0.1215
+Conservative Fund|2019|0.042499999999999996
+Conservative Fund|2020|-0.0975
+Conservative Fund|2021|0.0541
+Conservative Fund|2022|0.020099999999999993
+Conservative Fund|2023|0.16019999999999998
+Conservative Fund|2024|0.1769
